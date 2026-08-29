@@ -1,0 +1,9 @@
+Thumbs.db
+.DS_Store
+*.tmp
+*.log
+
+# Local-only source copies and unused design drafts
+Profile-photo.jpeg
+Bhargavi_Parmar_CV.pdf
+assets/logo-draft-*.png
